@@ -2,7 +2,7 @@
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues with Python3.
 
 # Project Motivation
-In this project, I aim to use the Airbnb dataset to explore the prices and distributions of lodge listings in Seattle. To be more specific, 
+In this project, I aim to use the Airbnb dataset to explore the prices and distributions of lodge listings in Seattle. To be more specific,
 the following 3 questions are anwered.
 1. What are the neighborhoods with the most affordable lodges? the neighborhoods with the most listings?
 2. How much do host charge generally? how does that of Seattle compare to Boston?
@@ -13,6 +13,8 @@ the following 3 questions are anwered.
 - calendar.csv: csvs containing listing_id, data, available and price
 - listings.csv: csvs containing informations of different listings.
 - reviews.csv: csvs containing reviews on different listings.
+- index.html: html file for creating webpage including visualizations on listings
+
 
 # Results
 The main findings of the code can be found at the [blog post](https://yzxiao.medium.com/)
