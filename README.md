@@ -15,7 +15,7 @@ the following 3 questions are anwered.
 - reviews.csv: csvs containing reviews on different listings.
 - index.html: html file for creating webpage including visualizations on listings
 - plot1.js: javascript file for creating barchart of listing number at different neighborhoods
-
+- plot2.js: javascript file for creating barchart of average listing prices at different neighborhoods
 
 # Results
 The main findings of the code can be found at the [blog post](https://yzxiao.medium.com/)
