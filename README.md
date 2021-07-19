@@ -14,6 +14,7 @@ the following 3 questions are anwered.
 - listings.csv: csvs containing informations of different listings.
 - reviews.csv: csvs containing reviews on different listings.
 - index.html: html file for creating webpage including visualizations on listings
+- plot1.js: javascript file for creating barchart of listing number at different neighborhoods
 
 
 # Results
